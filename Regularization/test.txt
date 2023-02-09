@@ -1,0 +1,3 @@
+Regularization helps to reduce overfitting.
+Regularization will drive the weights to lower values.
+L2 regularization and Dropout are two very effective regularization techniques.
